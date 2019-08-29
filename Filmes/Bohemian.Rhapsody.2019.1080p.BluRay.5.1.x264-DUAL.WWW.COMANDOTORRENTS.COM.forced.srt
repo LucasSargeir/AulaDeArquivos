@@ -1,23 +1,23 @@
 1
 00:01:12,739 --> 00:01:14,157
-<i>É meio-dia em Londres.</i>
+<i>Ã‰ meio-dia em Londres.</i>
 
 2
 00:01:14,199 --> 00:01:16,034
-<i>Sete da manhã na Filadélfia.</i>
+<i>Sete da manhÃ£ na FiladÃ©lfia.</i>
 
 3
 00:01:16,076 --> 00:01:19,162
-<i>E, no mundo todo, é hora do Live Aid.</i>
+<i>E, no mundo todo, Ã© hora do Live Aid.</i>
 
 4
 00:01:19,204 --> 00:01:21,581
-<i>Wembley dá boas-vindas
+<i>Wembley dÃ¡ boas-vindas
 a Suas Majestades,</i>
 
 5
 00:01:21,623 --> 00:01:24,084
-<i>o Príncipe e a Princesa de Gales.</i>
+<i>o PrÃ­ncipe e a Princesa de Gales.</i>
 
 6
 00:03:52,315 --> 00:03:54,984
@@ -38,11 +38,11 @@ FAZENDA ROCKFIELD, 1975
 10
 00:35:04,646 --> 00:35:09,526
 <i>Amor da minha vida
-Você me magoou</i>
+VocÃª me magoou</i>
 
 11
 00:35:11,236 --> 00:35:15,407
-<i>Partiu meu coração</i>
+<i>Partiu meu coraÃ§Ã£o</i>
 
 12
 00:35:15,448 --> 00:35:21,955
@@ -50,7 +50,7 @@ Você me magoou</i>
 
 13
 00:35:23,248 --> 00:35:27,836
-<i>Amor da minha vida, não percebe?</i>
+<i>Amor da minha vida, nÃ£o percebe?</i>
 
 14
 00:35:29,546 --> 00:35:33,550
@@ -62,11 +62,11 @@ Você me magoou</i>
 
 16
 00:35:37,095 --> 00:35:41,307
-<i>Não tire isso de mim</i>
+<i>NÃ£o tire isso de mim</i>
 
 17
 00:35:41,349 --> 00:35:45,395
-<i>Porque você não sabe</i>
+<i>Porque vocÃª nÃ£o sabe</i>
 
 18
 00:35:46,813 --> 00:35:50,483
@@ -82,20 +82,20 @@ Você me magoou</i>
 
 21
 00:39:18,566 --> 00:39:25,657
-<i>Tenho que deixar todos vocês para trás
+<i>Tenho que deixar todos vocÃªs para trÃ¡s
 E encarar a verdade</i>
 
 22
 00:39:25,699 --> 00:39:31,496
-Mãe...
+MÃ£e...
 
 23
 00:39:32,372 --> 00:39:35,709
-<i>Eu não quero morrer</i>
+<i>Eu nÃ£o quero morrer</i>
 
 24
 00:39:35,750 --> 00:39:41,339
-<i>Eu às vezes gostaria
+<i>Eu Ã s vezes gostaria
 de nem ter nascido</i>
 
 25
@@ -112,16 +112,16 @@ IMITA LED ZEPPELIN
 
 28
 00:48:38,668 --> 00:48:39,711
-LEMBRA ÓPERA
+LEMBRA Ã“PERA
 
 29
 00:48:39,753 --> 00:48:40,962
 INFELIZMENTE
-NÃO É UM SONETO
+NÃƒO Ã‰ UM SONETO
 
 30
 00:48:41,004 --> 00:48:42,130
-QUEEN NÃO CIMENTA SERIEDADE
+QUEEN NÃƒO CIMENTA SERIEDADE
 
 31
 00:48:42,172 --> 00:48:43,298
@@ -129,7 +129,7 @@ DEVERIA AFUNDAR E SUMIR
 
 32
 00:48:43,340 --> 00:48:44,466
-CONFUSÃO INSOLENTE
+CONFUSÃƒO INSOLENTE
 
 33
 00:48:44,507 --> 00:48:45,633
@@ -141,7 +141,7 @@ PASTICHE CHATO
 
 35
 00:48:46,843 --> 00:48:47,969
-LETRA ININTELIGÍVEL
+LETRA ININTELIGÃVEL
 
 36
 00:48:48,011 --> 00:48:49,137
@@ -149,8 +149,8 @@ VAZIA, CHAMATIVA E SEM ALMA
 
 37
 00:48:49,179 --> 00:48:50,555
-SEM REFRÃO
-COM 6 GÊNEROS EM 6 MINUTOS
+SEM REFRÃƒO
+COM 6 GÃŠNEROS EM 6 MINUTOS
 
 38
 00:48:50,597 --> 00:48:51,931
@@ -159,11 +159,11 @@ BASTANTE ADEQUADA
 39
 00:52:48,752 --> 00:52:52,756
 <i>Amor da minha vida
-Você me magoou</i>
+VocÃª me magoou</i>
 
 40
 00:52:54,174 --> 00:52:57,052
-<i>Partiu meu coração</i>
+<i>Partiu meu coraÃ§Ã£o</i>
 
 41
 00:52:57,093 --> 00:53:00,221
@@ -171,7 +171,7 @@ Você me magoou</i>
 
 42
 00:53:00,263 --> 00:53:04,726
-<i>Amor da minha vida, não percebe?</i>
+<i>Amor da minha vida, nÃ£o percebe?</i>
 
 43
 00:53:05,435 --> 00:53:08,897
@@ -179,7 +179,7 @@ Você me magoou</i>
 
 44
 00:53:08,938 --> 00:53:12,359
-<i>Não tire isso de mim</i>
+<i>NÃ£o tire isso de mim</i>
 
 45
 00:56:57,459 --> 00:57:00,003
@@ -204,11 +204,11 @@ MUNIQUE, 1984
 
 50
 01:43:58,071 --> 01:44:03,785
-<i>O que constrói nossos sonhos</i>
+<i>O que constrÃ³i nossos sonhos</i>
 
 51
 01:44:03,827 --> 01:44:09,624
-<i>Porém escapa de nós?</i>
+<i>PorÃ©m escapa de nÃ³s?</i>
 
 52
 01:44:11,459 --> 01:44:17,424
@@ -220,11 +220,11 @@ MUNIQUE, 1984
 
 54
 01:44:31,354 --> 01:44:35,316
-<i>Não há chance para nós</i>
+<i>NÃ£o hÃ¡ chance para nÃ³s</i>
 
 55
 01:44:37,360 --> 01:44:42,032
-<i>Está tudo decidido para nós</i>
+<i>EstÃ¡ tudo decidido para nÃ³s</i>
 
 56
 01:44:43,992 --> 01:44:48,913
@@ -232,7 +232,7 @@ MUNIQUE, 1984
 
 57
 01:44:48,955 --> 01:44:54,461
-<i>Doce momento reservado para nós</i>
+<i>Doce momento reservado para nÃ³s</i>
 
 58
 01:49:11,092 --> 01:49:14,095
@@ -240,15 +240,15 @@ DIA DO LIVE AID, 1985
 
 59
 01:49:33,698 --> 01:49:35,575
-<i>É meio-dia em Londres.</i>
+<i>Ã‰ meio-dia em Londres.</i>
 
 60
 01:49:35,617 --> 01:49:36,951
-<i>Sete da manhã na Filadélfia.</i>
+<i>Sete da manhÃ£ na FiladÃ©lfia.</i>
 
 61
 01:49:37,243 --> 01:49:39,913
-<i>E, no mundo todo, é hora do Live Aid.</i>
+<i>E, no mundo todo, Ã© hora do Live Aid.</i>
 
 62
 01:53:57,462 --> 01:53:59,798
@@ -260,11 +260,11 @@ DIA DO LIVE AID, 1985
 
 64
 01:54:08,682 --> 01:54:11,226
-<i>Houve uma reclamação do barulho.</i>
+<i>Houve uma reclamaÃ§Ã£o do barulho.</i>
 
 65
 01:54:15,522 --> 01:54:17,524
-<i>Foi uma mulher na Bélgica.</i>
+<i>Foi uma mulher na BÃ©lgica.</i>
 
 66
 01:54:31,121 --> 01:54:32,247
@@ -272,12 +272,12 @@ DIA DO LIVE AID, 1985
 
 67
 01:54:32,288 --> 01:54:36,376
-<i>é com grande prazer
-que apresentamos o próximo número,</i>
+<i>Ã© com grande prazer
+que apresentamos o prÃ³ximo nÃºmero,</i>
 
 68
 01:54:36,418 --> 01:54:37,752
-<i>que é...</i>
+<i>que Ã©...</i>
 
 69
 01:54:37,794 --> 01:54:38,920
@@ -293,7 +293,7 @@ Queen!
 
 72
 02:07:54,799 --> 02:07:56,259
-<i>Nós amamos vocês!</i>
+<i>NÃ³s amamos vocÃªs!</i>
 
 73
 02:08:34,714 --> 02:08:37,258
@@ -308,7 +308,7 @@ Ele tinha 45 anos.
 75
 02:08:41,554 --> 02:08:44,808
 Freddie e Jim ficaram juntos
-até o fim da vida de Freddie.
+atÃ© o fim da vida de Freddie.
 
 76
 02:08:44,849 --> 02:08:48,645
@@ -318,17 +318,17 @@ foram amigos a vida toda.
 77
 02:08:49,187 --> 02:08:55,151
 Ele foi cremado conforme manda
-a tradição da fé de sua família zoroastra.
+a tradiÃ§Ã£o da fÃ© de sua famÃ­lia zoroastra.
 
 78
 02:08:55,860 --> 02:08:59,447
-"Bohemian Rhapsody" foi relançada
+"Bohemian Rhapsody" foi relanÃ§ada
 duas semanas depois,
 
 79
 02:08:59,489 --> 02:09:03,576
 ficando novamente em primeiro lugar
-16 anos após seu lançamento.
+16 anos apÃ³s seu lanÃ§amento.
 
 80
 02:09:04,285 --> 02:09:08,540
@@ -338,9 +338,9 @@ o Fundo Mercury Phoenix
 81
 02:09:08,581 --> 02:09:12,752
 em homenagem a Freddie, dedicado
-à luta contra a AIDS no mundo inteiro.
+Ã  luta contra a AIDS no mundo inteiro.
 
 82
 02:14:24,773 --> 02:14:26,775
-Tradução: Mário Menezes
+TraduÃ§Ã£o: MÃ¡rio Menezes
 
