@@ -32,7 +32,7 @@ int main(int argc, char**argv){
 
     FILE *f, *saida;
 	Endereco *e;
-	long posicao, qtd, parte;
+	long posicao, qtd, parte, qtd2;
 
 
 	f = fopen("cep.dat","r");
@@ -40,7 +40,7 @@ int main(int argc, char**argv){
 	fseek(f,0,SEEK_END);
 	posicao = ftell(f);
 	qtd = posicao/sizeof(Endereco);
-	parte = (qtd/8)+1;
+	parte = (qtd/8);
 
     int i = 1;
     rewind(f);
@@ -51,26 +51,29 @@ int main(int argc, char**argv){
     while(i++ < 9){
         
         printf("Dividindo...\t");
-        e = (Endereco*) malloc(parte*sizeof(Endereco));
 
-        if(!fread(e,sizeof(Endereco),parte,f) == parte){
+        qtd2 = (i < 9)?parte:(qtd - (parte*7));
+
+        e = (Endereco*) malloc(qtd2*sizeof(Endereco));
+        
+        if(!fread(e,sizeof(Endereco),qtd2,f) == qtd2){
             printf("Erro na leitura do arquivo!!!");
         }
 
-	    qsort(e,parte,sizeof(Endereco),compara);
-	    printf("Ordenando particao %d\n",i);
+	    qsort(e,qtd2,sizeof(Endereco),compara);
+        printf("Ordenando particao %d\n",i-1);
         char fileName[200];
         sprintf(fileName,"cep_%d.dat",i-1);
         saida = fopen(fileName,"w");
 	    printf("Gerando arquivo %s...\n",fileName);
-        fwrite(e,sizeof(Endereco),parte,saida);
+        fwrite(e,sizeof(Endereco),qtd2,saida);
 	    
-        fclose(saida);
+        fclose(saida); //add condição
 	    free(e);
         
     }
-    i--;
-	fclose(f);        
+    i--;	
+    fclose(f);        
 
 //__________________________[INTERCALANDO ARQUIVOS]__________________________
     
